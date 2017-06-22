@@ -1,0 +1,8 @@
+/Users/wayneburris/Desktop/Projects/C#Projects/numberSwap/bin/Debug/netcoreapp1.1/numberSwap.deps.json
+/Users/wayneburris/Desktop/Projects/C#Projects/numberSwap/bin/Debug/netcoreapp1.1/numberSwap.runtimeconfig.json
+/Users/wayneburris/Desktop/Projects/C#Projects/numberSwap/bin/Debug/netcoreapp1.1/numberSwap.runtimeconfig.dev.json
+/Users/wayneburris/Desktop/Projects/C#Projects/numberSwap/bin/Debug/netcoreapp1.1/numberSwap.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/numberSwap/bin/Debug/netcoreapp1.1/numberSwap.pdb
+/Users/wayneburris/Desktop/Projects/C#Projects/numberSwap/obj/Debug/netcoreapp1.1/numberSwap.AssemblyInfo.cs
+/Users/wayneburris/Desktop/Projects/C#Projects/numberSwap/obj/Debug/netcoreapp1.1/numberSwap.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/numberSwap/obj/Debug/netcoreapp1.1/numberSwap.pdb
